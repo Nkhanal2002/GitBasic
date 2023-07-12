@@ -1,0 +1,3 @@
+The usage of git diff command: it compares the context written in working directory and staging directory. 
+
+The usage of git diff --staged: it compares the previous commit with current staging area.

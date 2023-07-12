@@ -1,0 +1,5 @@
+*.log
+/Dir/
+static/others.txt
+static/Dir/
+file3.txt
