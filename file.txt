@@ -1,5 +1,8 @@
 APPLICATION OF SOME GIT COMMANDS: 
 
-The usage of git diff command: it compares the context written in working directory and staging directory. 
+There are lots of applications of git commands for different functionalities in accessing files from remote and local directories. Among lots of applications, here are some: 
 
-The usage of git diff --staged: it compares the previous commit with current staging area.
+1. The usage of git diff command: it compares the context written in working directory and staging directory. 
+
+2. The usage of git diff --staged: it compares the previous commit with current staging area.
+
